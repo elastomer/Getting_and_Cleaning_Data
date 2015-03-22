@@ -33,3 +33,6 @@
 ##	  c. Output the Means into a CSV file
 ##
 ## Completed Assignment and Followed Instructions to Post the Result Files, Readme, Codebook into GitHub
+##   Created 2 Code Book Versions
+##     Using the Str Function
+##     Using the Hmisc Package Describe Function
